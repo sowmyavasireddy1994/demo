@@ -1,0 +1,2 @@
+-- This is optional if JPA is generating schema automatically.
+-- CREATE TABLE MY_ENTITY (id bigint auto_increment primary key, name varchar(255));
